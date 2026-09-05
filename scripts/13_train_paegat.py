@@ -163,7 +163,7 @@ def compute_ece(confidence, accuracy, n_bins=10):
 print("\nTraining PAE-GAT...")
 best_loss = float('inf')
 
-for epoch in range(50):
+for epoch in range(20):
     train_loss = train_epoch(train_loader)
     
     if (epoch + 1) % 5 == 0:
