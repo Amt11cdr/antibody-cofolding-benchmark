@@ -1,0 +1,10 @@
+# Packages needed to run the notebooks (PAE-GAT training and evaluation).
+# Minimum versions below. Versions in Colab on 7 Nov 2026:
+# python 3.13, torch 2.14.1, torch-geometric 2.8.1, numpy 2.4.6,
+# pandas 2.2.3, scipy 1.16.3, scikit-learn 1.6.1
+torch>=2.0
+torch-geometric>=2.5
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.3
