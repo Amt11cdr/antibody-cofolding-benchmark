@@ -1,0 +1,4 @@
+model	predictions	complexes	mean_cv_cdr_h3	mean_cv_iptm	mean_of_ratios	median_ratio	ratio_of_mean_cvs	n_ratio_gt1	pct_ratio_gt1	max_ratio
+Boltz-2	1520	304	0.226	0.13	6.91	2.19	1.74	210	69.1	172.9
+OpenFold3	1515	303	0.322	0.15	7.97	3.54	2.15	221	72.9	75.4
+Protenix	1520	304	0.281	0.097	38.41	5.27	2.91	250	82.2	792.8
