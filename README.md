@@ -1,4 +1,4 @@
-# Antibody co-folding confidence calibration
+# PAE-GAT: Antibody co-folding confidence calibration algorithm
 
 Code, trained models and analysis for "Graph based Confidence Recalibration for Antibody Co-folding Models" (manuscript in preparation).
 
